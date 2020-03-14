@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="juegue_de_nuevo">juegue de nuevo</string>
+    <string name="the_number_i_m_thinking_of_from_1_1000">the number i m thinking of from 1 - 1000</string>
+    <string name="number_guess_game">Number guess game</string>
+</resources>
